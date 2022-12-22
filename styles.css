@@ -1,0 +1,57 @@
+a{
+    font-family: 'Tahoma';
+    font-size: 20px;
+}
+
+h1{
+    color: orange;
+    font-family: 'Times New Roman';
+    font-size: 60px;
+    text-align: center;
+}
+
+h2{
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    font-family: 'Georgia';
+    font-size: 21px;
+    text-align: center;
+}
+
+pre{
+    text-align: center;
+}
+
+.food-recipes{
+    font-family: 'Courier New';
+    font-size: 15px;
+    color: black;
+}
+
+.drink-recipes{
+    font-family: 'Courier New';
+    font-size: 15px;
+    color: black;
+}
+
+ol{
+    font-family: 'Arial';
+    font-size: 15px;
+    color: black;
+}
+
+ul{
+    font-family: 'Arial';
+    font-size: 15px;
+    color: black;
+}
+
+strong{
+    font-family: 'Arial';
+    color:brown
+}
